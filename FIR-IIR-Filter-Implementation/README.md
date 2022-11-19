@@ -1,2 +1,2 @@
 # FIR-and-IIR-Filter-Implementation
-Digital Signal Processing university course project
+University course project - Digital Signal Processing 
